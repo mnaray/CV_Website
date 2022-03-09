@@ -1,2 +1,2 @@
-# CV_Website
+# CV Website
 A Website about my CV with some project portfolios.
