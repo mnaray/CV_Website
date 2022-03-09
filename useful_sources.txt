@@ -25,6 +25,9 @@ https://ianlunn.github.io/Hover/
 box sizing css:
 https://developer.mozilla.org/de/docs/Web/CSS/box-sizing
 
+hamburger menu with css:
+https://www.w3schools.com/howto/howto_js_mobile_navbar.asp
+
 spacefiller:
 https://www.loremipsum.de/
 
