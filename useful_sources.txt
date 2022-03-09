@@ -1,0 +1,40 @@
+page to copy:
+https://geboren.am/person/john-lennon
+
+structure:
+https://developer.mozilla.org/de/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure
+
+icons and fonts:
+https://fontawesome.com
+https://fonts.google.com
+https://www.remove.bg/de/upload
+
+Royalty free only, still copyrighted:
+https://www.pngwing.com/en/free-png-ktvqd/download?width=100
+
+copyright free:
+pixabay
+pexels
+
+flexbox guide:
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+hover animations css:
+https://ianlunn.github.io/Hover/
+
+box sizing css:
+https://developer.mozilla.org/de/docs/Web/CSS/box-sizing
+
+spacefiller:
+https://www.loremipsum.de/
+
+github url:
+https://github.com/mnaray/John_Lennon_Portfolio
+
+
+how to use css root var:
+https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties
+
+color information:
+https://getbootstrap.com/docs/5.1/customize/color/
+https://material.io/design/color/color-usage.html#brand
