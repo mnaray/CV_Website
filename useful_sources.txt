@@ -31,6 +31,8 @@ https://www.loremipsum.de/
 github url:
 https://github.com/mnaray/John_Lennon_Portfolio
 
+svg to .ico converter
+https://cloudconvert.com/svg-to-ico
 
 how to use css root var:
 https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties
