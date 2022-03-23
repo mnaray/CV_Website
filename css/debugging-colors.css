@@ -22,6 +22,10 @@
     background-color: blueviolet;
 }
 
+.project-title {
+    background-color: gray;
+}
+
 .project-text {
     background-color: greenyellow;
 }
@@ -40,6 +44,14 @@
 
 .cv-short {
     background-color: red;
+}
+
+.cv-short-title {
+    background-color: aliceblue;
+}
+
+.cv-short-text {
+    background-color: green;
 }
 
 .footer {
