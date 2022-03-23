@@ -6,46 +6,42 @@
     background-color: yellowgreen;
 }
 
-.logo {
-    background-color: blue;
-}
-
-.logo-icon {
-    background-color: beige;
-}
-
-.logo-text {
-    background-color: aqua;
-}
-
-.nav-container {
+.nav-bar {
     background-color: goldenrod;
 }
 
-.geborenam-page {
-    background-color: purple;
+.main-introduction {
+    background-color: yellow;
 }
 
-.wikipedia-page {
-    background-color: brown;
+.top-projects {
+    background-color: aqua;
 }
 
-.spotify-page {
-    background-color: palevioletred;
+.project {
+    background-color: blueviolet;
 }
 
-.main-container {
-    background-color: aquamarine;
+.project-text {
+    background-color: greenyellow;
 }
 
-.main-text {
-    background-color: green;
+.project-button {
+    background-color: black;
 }
 
-.aside {
+.button-row {
+    background-color: peachpuff;
+}
+
+.see-more-button {
+    background-color: black;
+}
+
+.cv-short {
     background-color: red;
 }
 
-.footer-container {
+.footer {
     background-color: azure;
 }
