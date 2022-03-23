@@ -8,8 +8,12 @@
 
 a {
     text-decoration: none;
-    color: var(--text-color-bright);
+    color: grey;
     font-weight: bolder;
+}
+
+ul {
+    list-style: none;
 }
 
 html,

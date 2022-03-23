@@ -10,15 +10,33 @@
 .header-bar {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: flex-start;
     margin-bottom: 0.5rem;
 }
 
+.logo {
+    max-width: 3.2rem;
+    align-items: center;
+    margin-right: 1rem;
+}
+
+.header-text {
+    font-size: 2.5rem;
+}
+
 .nav-bar {
+    margin-bottom: 3rem;
+}
+
+.nav-bar-elements-list {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    margin-bottom: 3rem;
+}
+
+.list-element {
+    width: auto;
+    text-align: center;
 }
 
 .project-row {
