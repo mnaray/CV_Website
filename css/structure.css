@@ -104,6 +104,7 @@
     justify-content: space-evenly;
     padding: 1rem;
     margin-top: auto;
+    padding-bottom: 3rem;
 }
 
 .footer-contents {
@@ -115,6 +116,10 @@
 
 .footer-text {
     margin-top: 0.5rem;
+}
+
+.contact-text {
+    line-height: 1.5rem;
 }
 
 .portfolio-container {
