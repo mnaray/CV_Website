@@ -1,4 +1,6 @@
 .master-container {
+    /* Might have to remove height if bugged!!! */
+    height: 100%;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
@@ -100,11 +102,16 @@
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
-    line-height: 5rem;
     padding: 1rem;
     margin-top: 1rem;
 }
 
 .footer-contents {
     margin-bottom: 0.5rem;
+}
+
+.portfolio-container {
+    box-sizing: border-box;
+    padding-left: 5rem;
+    padding-right: 5rem;
 }
