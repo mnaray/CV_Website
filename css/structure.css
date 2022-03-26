@@ -100,14 +100,21 @@
 .footer {
     box-sizing: border-box;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: space-evenly;
     padding: 1rem;
-    margin-top: 1rem;
+    margin-top: auto;
 }
 
 .footer-contents {
-    margin-bottom: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 35%;
+}
+
+.footer-text {
+    margin-top: 0.5rem;
 }
 
 .portfolio-container {
