@@ -1,6 +1,5 @@
 :root {
-    --main-bg-color: rgb(184, 184, 184);
-    --bg-color: rgb(71, 71, 71);
-    --text-color-bright: rgb(214, 214, 214);
-    --footer-text-color: rgb(255, 255, 255);
+    --beige: rgb(246, 234, 212);
+    --kaki: rgb(162, 165, 149);
+    --brown: rgb(180, 162, 132);
 }
