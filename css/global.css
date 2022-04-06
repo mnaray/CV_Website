@@ -9,7 +9,7 @@
 
 a {
     text-decoration: none;
-    color: grey;
+    color: black;
     font-weight: bolder;
 }
 
@@ -19,6 +19,7 @@ ul {
 
 html,
 body {
+    background-color: white;
     font-size: 62, 5%;
 }
 

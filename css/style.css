@@ -1,3 +1,31 @@
 .blocktext {
     text-align: justify;
 }
+
+.header-bar {
+    background-color: var(--brown);
+}
+
+.list-element {
+    background-color: var(--beige);
+}
+
+.main-introduction {
+    background-color: var(--beige);
+}
+
+.project {
+    background-color: var(--kaki);
+}
+
+.project-button, .see-more-button {
+    background-color: var(--brown);
+}
+
+.cv-short {
+    background-color: var(--beige);
+}
+
+.footer {
+    background-color: var(--kaki);
+}
