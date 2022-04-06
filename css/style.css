@@ -26,6 +26,10 @@
     background-color: var(--beige);
 }
 
+.cv-container, .portfolio-container {
+    background-color: var(--beige);
+}
+
 .footer {
     background-color: var(--kaki);
 }
