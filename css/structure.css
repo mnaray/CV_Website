@@ -70,8 +70,9 @@
 
 .project-button {
     text-align: right;
-    width: 45%;
-    margin-left: 50%;
+    width: auto;
+    margin-right: 0.5rem;
+    margin-left: auto;
 }
 
 .see-more-button {

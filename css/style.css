@@ -4,6 +4,8 @@
 
 .header-bar {
     background-color: var(--brown);
+    border: 0.01rem solid grey;
+    border-radius: 0rem 0rem 1rem 1rem;
 }
 
 .list-element {
@@ -12,24 +14,38 @@
 
 .main-introduction {
     background-color: var(--beige);
+    border: 0.01rem solid grey;
+    border-radius: 1rem 1rem 1rem 1rem;
 }
 
 .project {
     background-color: var(--kaki);
+    padding: 0.7rem;
+    border: 0.01rem solid grey;
+    border-radius: 1rem 1rem 1rem 1rem;
 }
 
 .project-button, .see-more-button {
     background-color: var(--brown);
+    padding: 0.2rem;
+    border: 0.01rem solid grey;
+    border-radius: 0.2rem 0.2rem 0.2rem 0.2rem;
 }
 
 .cv-short {
     background-color: var(--beige);
+    border: 0.01rem solid grey;
+    border-radius: 1rem 1rem 1rem 1rem;
 }
 
 .cv-container, .portfolio-container {
     background-color: var(--beige);
+    border: 0.01rem solid grey;
+    border-radius: 1rem 1rem 1rem 1rem;
 }
 
 .footer {
     background-color: var(--kaki);
+    border: 0.01rem solid grey;
+    border-radius: 1rem 1rem 0rem 0rem;
 }
