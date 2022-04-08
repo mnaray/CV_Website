@@ -10,6 +10,9 @@
 
 .list-element {
     background-color: var(--beige);
+    padding: 0.35rem;
+    border: 0.01rem solid grey;
+    border-radius: 0rem 0rem 0.7rem 0.7rem;
 }
 
 .main-introduction {
