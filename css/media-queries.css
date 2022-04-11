@@ -51,10 +51,11 @@
         flex-direction: column;
         margin-top: 1rem;
     }
-
+    
     .list-element {
         text-align: left;
         margin-top: 0.3rem;
+        border-radius: 0.7rem 0.7rem 0.7rem 0.7rem;
     }
 }
 
