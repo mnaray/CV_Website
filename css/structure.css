@@ -7,13 +7,14 @@
     align-items: center;
     box-sizing: border-box;
     padding: 1rem;
+    padding-top: 0rem;
 }
 
 .header-bar {
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.3rem;
 }
 
 .logo {
@@ -111,7 +112,7 @@
     justify-content: space-evenly;
     padding: 1rem;
     margin-top: auto;
-    padding-bottom: 3rem;
+    padding-bottom: 1.5rem;
 }
 
 .footer-contents {
