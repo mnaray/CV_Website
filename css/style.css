@@ -47,6 +47,10 @@
     border-radius: 1rem 1rem 1rem 1rem;
 }
 
+.portfolio-image {
+    border-radius: 0.7rem 0.7rem 0.7rem 0.7rem;
+}
+
 .footer {
     background-color: var(--kaki);
     border: 0.01rem solid grey;
