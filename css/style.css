@@ -47,6 +47,13 @@
     border-radius: 1rem 1rem 1rem 1rem;
 }
 
+.avatar {
+    max-width: 6.5rem;
+    float: inline-end;
+    margin-left: 0.75rem;
+    border-radius: 6rem 6rem 6rem 6rem;
+}
+
 .portfolio-image {
     border-radius: 0.7rem 0.7rem 0.7rem 0.7rem;
 }
