@@ -19,8 +19,7 @@ ul {
     list-style: none;
 }
 
-html,
 body {
     background-color: white;
-    font-size: 62.5%;
+    /* font-size: 62.5%; */
 }
