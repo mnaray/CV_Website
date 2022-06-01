@@ -37,7 +37,8 @@
 }
 
 @media screen and (max-width: 900px) {
-    .footer {
+    .footer,
+    .contact-parent-container {
         flex-direction: column;
     }
 
@@ -52,7 +53,7 @@
         flex-direction: column;
         margin-top: 1rem;
     }
-    
+
     .list-element {
         text-align: left;
         margin-top: 0.3rem;
@@ -63,7 +64,8 @@
         flex-direction: column;
     }
 
-    .portfolio-container, .cv-container {
+    .portfolio-container,
+    .cv-container {
         padding-left: 12.5%;
         padding-right: 12.5%;
     }
