@@ -135,6 +135,21 @@ body {
     line-height: 1.5rem;
 }
 
+.contact-parent-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.form {
+    max-width: 25rem;
+}
+
+.form button {
+    max-width: 5rem;
+    height: 1.5rem;
+}
+
 .portfolio-container,
 .cv-container {
     box-sizing: border-box;

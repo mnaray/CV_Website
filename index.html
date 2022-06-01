@@ -182,15 +182,33 @@
                 </div>
             </div>
             <footer class="footer">
-                <div class="contact footer-contents">
-                    <h4 class="footer-title">Contact</h4>
-                    <p class="contact-text footer-text">
-                        E-Mail: m.naray.inf21@stud.bbbaden.ch<br />
-                        GitHub:
-                        <a href="https://github.com/mnaray" target="_blank"
-                            >mnaray</a
-                        ><br />
-                    </p>
+                <div class="contact-parent-container">
+                    <div class="contact footer-contents">
+                        <h4 class="footer-title">Contact</h4>
+                        <p class="contact-text footer-text">
+                            GitHub:
+                            <a href="https://github.com/mnaray" target="_blank"
+                                >mnaray</a
+                            ><br />
+                        </p>
+                    </div>
+                    <form
+                        action="https://formspree.io/f/xlezzvyr"
+                        method="POST"
+                        class="form"
+                        id="form"
+                    >
+                        <label>
+                            Your email:
+                            <input type="email" name="email" />
+                        </label>
+                        <label>
+                            Your message:
+                            <textarea name="message"></textarea>
+                        </label>
+                        <!-- your other form fields go here -->
+                        <button type="submit">Send</button>
+                    </form>
                 </div>
                 <div class="github-repo footer-contents">
                     <h4 class="footer-title">About</h4>
